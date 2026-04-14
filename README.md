@@ -1,4 +1,3 @@
-## Hi there 👋
 ## Hi there 👋 I'm Tharun
 
 🎓 MS Data Science @ The University of Texas at Arlington  
