@@ -2,7 +2,6 @@
 
 🎓 MS Data Science @ The University of Texas at Arlington  
 📊 Data Analyst | ⚙️ Data Engineer | 🤖 Applied Machine Learning Enthusiast  
-🚀 Building data-driven solutions, analytics systems, and scalable data pipelines 
 
 # 💫 About Me:
 🔭 Building end-to-end Data Analytics and Machine Learning projects with real-world impact  <br>👯 Open to collaborating on Data Analytics, Data Engineering, and ML projects  <br>🤝 Actively exploring opportunities in Data Analytics and Data Engineering    <br> 🌱 Currently learning advanced SQL, PySpark, ML optimization, and production-level data pipelines   <br> 💬 Ask me about Python, SQL, EDA, Machine Learning, and data pipeline design  <br>⚡ Turning data into actionable insights and scalable solutions is my focus  <br>
