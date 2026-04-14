@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Working on Machine Learning projects and building a strong GitHub portfolio  <br>👯 Open to collaborating on Data Science, Data Analysis and ML projects  <br>🤝 Seeking guidance on model evaluation, MLOps, and open-source contributions  <br>🌱 Learning Machine Learning algorithms and model optimization  <br>💬 Ask me about Python, EDA, ML fundamentals, and Git/GitHub  <br>⚡ Turning coursework into real-world projects is my thing<br>
+🔭 Building end-to-end Data Analytics and Machine Learning projects with real-world impact  <br>👯 Open to collaborating on Data Analytics, Data Engineering, and ML projects  <br>🤝 Actively exploring opportunities in Data Analytics and Data Engineering    <br>🌱 🌱 Currently learning advanced SQL, PySpark, ML optimization, and production-level data pipelines   <br>💬 💬 Ask me about Python, SQL, EDA, Machine Learning, and data pipeline design  <br>⚡ ⚡ Turning data into actionable insights and scalable solutions is my focus  <br>
 
 
 ## 🌐 Socials:
